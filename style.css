@@ -1,0 +1,27 @@
+h1, h3, h4 {
+    font-family: 'Roboto Mono', monospace;
+}
+
+p, li {
+    font-family: 'JetBrains Mono', monospace;
+}
+
+u {
+    text-decoration-color: lime;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
